@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
