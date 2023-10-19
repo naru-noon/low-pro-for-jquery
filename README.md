@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+Rename model_id to model.id (#8447)
