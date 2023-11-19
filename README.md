@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Compare plt.get_backend() in lowercase (#8409)
