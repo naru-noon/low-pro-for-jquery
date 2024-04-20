@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
