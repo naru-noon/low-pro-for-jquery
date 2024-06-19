@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
