@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
