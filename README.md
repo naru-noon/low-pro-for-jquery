@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+More robust PNNX downloads (#8866)
