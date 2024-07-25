@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
